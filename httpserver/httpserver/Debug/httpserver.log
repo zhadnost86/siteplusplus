@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  gpuload.cpp
+  httpserver.cpp
+C:\Users\goodm\Desktop\Раб.версия\httpserver\httpserver\socketio.h(120,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\goodm\Desktop\Раб.версия\httpserver\httpserver\socketio.h(178,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\goodm\Desktop\Раб.версия\httpserver\httpserver\socketio.h(188,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\goodm\Desktop\Раб.версия\httpserver\httpserver\wmi.h(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\goodm\Desktop\Раб.версия\httpserver\httpserver\httpserver.cpp(149,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\goodm\Desktop\Раб.версия\httpserver\httpserver\httpserver.cpp(158,20): warning C4129: >: неизвестная escape-последовательность
+C:\Users\goodm\Desktop\Раб.версия\httpserver\httpserver\httpserver.cpp(132,11): warning C4101: wbuf: неиспользованная локальная переменная
+  socketio.cpp
+C:\Users\goodm\Desktop\Раб.версия\httpserver\httpserver\socketio.h(120,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\goodm\Desktop\Раб.версия\httpserver\httpserver\socketio.h(178,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\goodm\Desktop\Раб.версия\httpserver\httpserver\socketio.h(188,21): warning C4018: <: несоответствие типов со знаком и без знака
+  wmi.cpp
+C:\Users\goodm\Desktop\Раб.версия\httpserver\httpserver\wmi.h(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  httpserver.vcxproj -> C:\Users\goodm\Desktop\Раб.версия\httpserver\Debug\httpserver.exe
